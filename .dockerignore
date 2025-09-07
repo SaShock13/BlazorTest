@@ -1,0 +1,15 @@
+**/.git
+**/.gitignore
+**/bin/
+**/obj/
+**/Dockerfile*
+**/.dockerignore
+**/README.md
+**/.vs
+**/vscode
+**/*.user
+**/*.suo
+**/*.lock
+**/appsettings.*.json
+**/logs/
+**/publish/
